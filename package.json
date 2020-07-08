@@ -1,0 +1,36 @@
+{
+  "name": "kl-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "kl-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/kl-pages#readme",
+  "bugs": {
+    "url": "https://github.com/zce/kl-pages/issues"
+  },
+  "license": "MIT",
+  "author": "kanglin <kanglin@yonyou.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/kl-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
